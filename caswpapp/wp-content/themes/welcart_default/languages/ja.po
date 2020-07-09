@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Welcart Default Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-09 00:00+0900\n"
+"PO-Revision-Date: 2018-10-30 17:53+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+msgid "Theme Options Settings"
+msgstr "テーマオプション設定"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Pages:"
+msgstr "ページ:"
+
+msgid "Edit this entry."
+msgstr "編集する"
+
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "日別アーカイブ: <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "月別アーカイブ: <span>%s</span>"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "年別アーカイブ: <span>%s</span>"
+
+msgid "Older posts"
+msgstr "次のページ"
+
+msgid "Newer posts"
+msgstr "前のページ"
+
+msgid "Author Archives: %s"
+msgstr "作成者別アーカイブ: %s"
+
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+msgid "Not Found"
+msgstr "見つかりません"
+
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"リクエストされたアーカイブには何も見つかりませんでした。検索すれば関連投稿が"
+"見つかるかもしれません。"
+
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+msgid "Home Left"
+msgstr "ホーム　ウィジェットエリア（左）"
+
+msgid "Top page left sidebar widget area"
+msgstr "トップページ　左側のサイドバーウィジェットエリア"
+
+msgid "Home Right"
+msgstr "ホーム　ウィジェットエリア（右）"
+
+msgid "Top page right sidebar widget area"
+msgstr "トップページ　右側のサイドバーウィジェットエリア"
+
+msgid "Other Left"
+msgstr "その他　ウィジェットエリア（左）"
+
+msgid "Other page left sidebar widget area"
+msgstr "その他のページ　左側のサイドバーウィジェットエリア"
+
+msgid "Cart Member Left"
+msgstr "カート・メンバー　ウィジェットエリア（左）"
+
+msgid "Cart or Member page left sidebar widget area"
+msgstr ""
+"カート関連ページとメンバー関連ページ　左側のサイドバーウィジェットエリア"
